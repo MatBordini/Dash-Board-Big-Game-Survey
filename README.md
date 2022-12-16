@@ -40,11 +40,6 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
 
 # entrar na pasta do projeto back end
 cd backend
@@ -58,7 +53,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/Matbordini-readme
 
 # entrar na pasta do projeto front end web
 cd front-web
